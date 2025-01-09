@@ -4,6 +4,8 @@
 - プログラミング言語: Python
 - GUIライブラリ: Tkinter
 - openAI（無課金なので使えません）
+
+# 機能
 ## 1. 溶液情報の入力:
 - 溶液名（Solution Name）
 - 原液濃度（Stock Concentration in mol/L）
